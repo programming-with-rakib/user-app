@@ -1,0 +1,29 @@
+
+.country-content{
+    width: 1000px;
+    margin: 20px auto;
+}
+.country-content img{
+    width: 250px;
+    height: 100px;
+}
+.country-info{
+    width: 260px;
+    height: 220px;
+    float: left;
+    border: 1px solid gray;
+    margin: 10px 10px;
+    padding: 10px;
+    text-align: center;
+}
+.btn-hero{
+    background: rgb(235, 186, 64);
+    padding: 5px 30px;
+    border: none;
+    border-radius: 3px;
+    font-size: 13px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+
+}

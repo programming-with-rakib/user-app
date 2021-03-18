@@ -1,0 +1,8 @@
+
+.home-content{
+    width: 1000px;
+    margin: 20px auto;
+}
+.home-content ol li{
+    color: blue;
+}
